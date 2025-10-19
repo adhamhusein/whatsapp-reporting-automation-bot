@@ -1,0 +1,195 @@
+{
+    "groupname": "debugtesting",
+    "userdata_dir": "C:\\Users\\Adham\\Work\\4_VPS\\14_Whatsapp_Automation\\cookies\\trial_03",
+    "headless": false,
+    "affirmative_keywords": ["iya", "ada", "betul", "yoi", "yap", "ya", "benar", "bot mio"],
+    "negative_keywords": ["tidak", "udah", "enggak", "ga", "nggak", "cukup", "makasih", "oke", "sip", "ashiap"],
+  
+    "messages": {
+      "activation": "Halo {user}, ada yang bisa saya bantu?",
+      "wait": "Mohon menunggu hingga sesi {user} selesai.",
+      "ask_help": "Apa yang bisa saya bantu? Ketik `help` untuk daftar perintah.",
+      "session_end": "Baik, sesi telah berakhir. Jika butuh bantuan, ketik 'bot mio'.",
+      "unknown": "Perintah tidak dikenal. Ketik `help` untuk daftar perintah. Ketik 'tidak' untuk mengakhiri sesi",
+      "no_response": "Sesi telah dihentikan karena tidak ada respons dari {user} selama 1 menit.",
+      "confirmation": "Apakah ada yang bisa dibantu lagi?",
+      "processing": "Mohon menunggu, report {command} sedang dibuat.."
+    },
+  
+    "help_text": [
+      "*Berikut adalah perintah yang bisa Anda gunakan:*",
+      "",
+      "- `showing all unit`: _Menampilkan semua unit beserta lokasi dan aktivitas terakhir._",
+      "`durasi aktivitas`: _Menampilkan durasi aktivitas unit support berdasarkan durasi tertinggi._",
+      "`dot trace [mobileid]`: _Menampilkan jejak pergerakan grader (misal: dot trace GR412 atau dot trace semua)._",
+      "`dot trace dt`: _Menampilkan jejak pergerakan Dump Truck (DT) hauling dan travelling dalam 3 jam terakhir._",
+      "`zero speed`: _Menampilkan titik-titik Dump Truck yang terdeteksi 0 kph (berwarna biru)._",
+      "`speed opt`: _Menampilkan Top 10 Operator DT dengan perlambatan terbanyak (< 17 kph)._",
+      "`[mobileid]`: _Menampilkan lokasi dan aktivitas spesifik unit (misal: GR123, DT3726)._",
+      "`tidak` / `cukup`: _Mengakhiri sesi interaksi._",
+      "",
+      "",
+      "Apakah ada yang bisa saya bantu?"
+    ],
+
+    "reporting_service": {
+        "produksi ob": {
+            "url": "http://laptop-5hoeaio4/ReportServer/Pages/ReportViewer.aspx?%2freport+bangjo&rs:Command=Render",
+            "body": "/html/body/form/table/tbody/tr/td/div[2]/div/table/tbody/tr[5]",
+            "detection":"//*[normalize-space(text())='loaded_succesfully']",
+            "width": 3000,
+            "height": 800,
+            "caption": "*Update Bangjo Produksi OB All Shfit* ",
+            "parameter": [
+                {
+                    "name": "input date",
+                    "type": "text_input",
+                    "value": "getdate",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl03_txtValue\"]"
+                },
+                {
+                    "name": "menu shift",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl05_ctl01\"]"
+                },
+                {
+                    "name": "select shift all",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl05_divDropDown_ctl00\"]"
+                },
+                {
+                    "name": "menu material",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl07_ctl01\"]"
+                },
+                {
+                    "name": "select material ob",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl07_divDropDown_ctl02\"]"
+                },
+                {
+                    "name": "submit",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl00\"]"
+                }
+            ]
+        },
+        "produksi cc": {
+            "url": "http://laptop-5hoeaio4/ReportServer/Pages/ReportViewer.aspx?%2freport+bangjo&rs:Command=Render",
+            "body": "/html/body/form/table/tbody/tr/td/div[2]/div/table/tbody/tr[5]",
+            "detection":"//*[normalize-space(text())='loaded_succesfully']",
+            "width": 3000,
+            "height": 800,
+            "caption": "xpath",
+            "parameter": [
+                {
+                    "name": "input date",
+                    "type": "text_input",
+                    "value": "getdate",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl03_txtValue\"]"
+                },
+                {
+                    "name": "menu shift",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl05_ctl01\"]"
+                },
+                {
+                    "name": "select shift all",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl05_divDropDown_ctl00\"]"
+                },
+                {
+                    "name": "menu material",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl07_ctl01\"]"
+                },
+                {
+                    "name": "select material cc",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl07_divDropDown_ctl05\"]"
+                },
+                {
+                    "name": "submit",
+                    "type": "select",
+                    "xpath": "//*[@id=\"ReportViewerControl_ctl04_ctl00\"]"
+                }
+            ]
+        }
+    },
+    "sql_service": {
+        "status": {
+            "sql_file": "sql\\unitdetil.sql",
+            "server": "LAPTOP-5HOEAIO4\\SQLEXPRESS",
+            "database": "db_ewacs_fgdp",
+            "params": ["UnitEqNum"]
+        },
+        "total unit": {
+            "sql_file": "sql\\totalunit.sql",
+            "server": "LAPTOP-5HOEAIO4\\SQLEXPRESS",
+            "database": "db_ewacs_fgdp",
+            "params": []
+        },
+        "total": {
+            "sql_file": "sql\\totalfiltered.sql",
+            "server": "LAPTOP-5HOEAIO4\\SQLEXPRESS",
+            "database": "db_ewacs_fgdp",
+            "params": ["unitstatus", "UnitEqClass", "UnitSubcontName"]
+        }
+    },
+    "scheduler_service": {
+        "07:00": [
+            "produksi ob",
+            "produksi cc",
+            "total unit"
+        ],
+        "10:00": [
+            "produksi ob"
+        ],
+        "13:00": [
+            "produksi ob",
+            "total unit"
+        ],
+        "18:33": [
+            "produksi ob",
+            "total unit"
+        ],
+        "16:00": [
+            "produksi ob",
+            "total unit"
+        ],
+        "19:00": [
+            "produksi ob",
+            "produksi cc",
+            "total unit"
+        ],
+        "01:00": [
+            "produksi ob",
+            "produksi cc",
+            "total unit"
+        ]
+    },
+    "python_service": {
+        "dotrace pa2":{
+            "python_path": "python\\DotTraceDT.py",
+            "class_name": "DotTraceDT",
+            "method": "generate", 
+            "output_type": "html",
+            "width": 1366,
+            "height": 900,
+            "parameter": {
+                "region":"PA2-SELATAN", 
+                "tif_path": "asset\\KPCS2509.tif"}
+        },
+        "bottom speed":{
+            "python_path": "python\\BottomSpeed.py",
+            "class_name": "BottomSpeed",
+            "method": "generate", 
+            "output_type": "image",
+            "width": 1366,
+            "height": 900,
+            "parameter": {
+                "region":"PA2-SELATAN", 
+                "tif_path": "asset\\KPCS2509.tif"}
+        }
+    }
+}

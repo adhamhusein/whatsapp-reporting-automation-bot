@@ -1,0 +1,8 @@
+# Ignore Python cache and backup folders
+__pycache__/
+__backup__/
+python/__pycache__/
+
+# Ignore everything inside cookies folder but keep the folder itself
+cookies/*
+!cookies/.gitkeep

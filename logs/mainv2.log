@@ -1,0 +1,327 @@
+2025-10-19 13:10:03 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-19 13:10:03 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-19 13:10:03 [INFO] Initializing bot (attempt 1)
+2025-10-19 13:10:03 [INFO] Initializing WhatsApp Bot
+2025-10-19 13:10:03 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-19 13:10:03 [INFO] Running in visible mode
+2025-10-19 13:10:03 [INFO] Starting Chrome WebDriver
+2025-10-19 13:10:08 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d2dd1eb5+80197]
+	GetHandleVerifier [0x0x7ff6d2dd1f10+80288]
+	(No symbol) [0x0x7ff6d2b502fa]
+	(No symbol) [0x0x7ff6d2b8fd24]
+	(No symbol) [0x0x7ff6d2b89bd0]
+	(No symbol) [0x0x7ff6d2bde0ef]
+	(No symbol) [0x0x7ff6d2bdd870]
+	(No symbol) [0x0x7ff6d2bd0153]
+	(No symbol) [0x0x7ff6d2b98b02]
+	(No symbol) [0x0x7ff6d2b998d3]
+	GetHandleVerifier [0x0x7ff6d308e83d+2949837]
+	GetHandleVerifier [0x0x7ff6d3088c6a+2926330]
+	GetHandleVerifier [0x0x7ff6d30a86c7+3055959]
+	GetHandleVerifier [0x0x7ff6d2decfee+191102]
+	GetHandleVerifier [0x0x7ff6d2df50af+224063]
+	GetHandleVerifier [0x0x7ff6d2ddaf64+117236]
+	GetHandleVerifier [0x0x7ff6d2ddb119+117673]
+	GetHandleVerifier [0x0x7ff6d2dc10a8+11064]
+	BaseThreadInitThunk [0x0x7fffb079e8d7+23]
+	RtlUserThreadStart [0x0x7fffb1028d9c+44]
+
+2025-10-19 13:10:08 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-19 13:10:08 [INFO] Restarting in 5 seconds...
+2025-10-19 13:10:09 [INFO] Restarting in 4 seconds...
+2025-10-19 13:10:10 [INFO] Restarting in 3 seconds...
+2025-10-19 13:10:11 [INFO] Restarting in 2 seconds...
+2025-10-19 13:10:12 [INFO] Restarting in 1 seconds...
+2025-10-19 13:10:13 [INFO] Attempting to restart the bot...
+2025-10-19 13:10:13 [INFO] Initializing bot (attempt 2)
+2025-10-19 13:10:13 [INFO] Initializing WhatsApp Bot
+2025-10-19 13:10:13 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-19 13:10:13 [INFO] Running in visible mode
+2025-10-19 13:10:13 [INFO] Starting Chrome WebDriver
+2025-10-19 13:10:15 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-19 13:10:19 [INFO] Application terminated gracefully by user
+2025-10-19 13:11:03 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-19 13:11:03 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-19 13:11:03 [INFO] Initializing bot (attempt 1)
+2025-10-19 13:11:03 [INFO] Initializing WhatsApp Bot
+2025-10-19 13:11:03 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-19 13:11:03 [INFO] Running in visible mode
+2025-10-19 13:11:03 [INFO] Starting Chrome WebDriver
+2025-10-19 13:11:06 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d2dd1eb5+80197]
+	GetHandleVerifier [0x0x7ff6d2dd1f10+80288]
+	(No symbol) [0x0x7ff6d2b502fa]
+	(No symbol) [0x0x7ff6d2b8fd24]
+	(No symbol) [0x0x7ff6d2b89bd0]
+	(No symbol) [0x0x7ff6d2bde0ef]
+	(No symbol) [0x0x7ff6d2bdd870]
+	(No symbol) [0x0x7ff6d2bd0153]
+	(No symbol) [0x0x7ff6d2b98b02]
+	(No symbol) [0x0x7ff6d2b998d3]
+	GetHandleVerifier [0x0x7ff6d308e83d+2949837]
+	GetHandleVerifier [0x0x7ff6d3088c6a+2926330]
+	GetHandleVerifier [0x0x7ff6d30a86c7+3055959]
+	GetHandleVerifier [0x0x7ff6d2decfee+191102]
+	GetHandleVerifier [0x0x7ff6d2df50af+224063]
+	GetHandleVerifier [0x0x7ff6d2ddaf64+117236]
+	GetHandleVerifier [0x0x7ff6d2ddb119+117673]
+	GetHandleVerifier [0x0x7ff6d2dc10a8+11064]
+	BaseThreadInitThunk [0x0x7fffb079e8d7+23]
+	RtlUserThreadStart [0x0x7fffb1028d9c+44]
+
+2025-10-19 13:11:06 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-19 13:11:06 [INFO] Restarting in 5 seconds...
+2025-10-19 13:11:07 [INFO] Restarting in 4 seconds...
+2025-10-19 13:11:08 [INFO] Restarting in 3 seconds...
+2025-10-19 13:11:09 [INFO] Restarting in 2 seconds...
+2025-10-19 13:11:10 [INFO] Restarting in 1 seconds...
+2025-10-19 13:12:09 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-19 13:12:09 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-19 13:12:09 [INFO] Initializing bot (attempt 1)
+2025-10-19 13:12:09 [INFO] Initializing WhatsApp Bot
+2025-10-19 13:12:09 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_03
+2025-10-19 13:12:09 [INFO] Running in visible mode
+2025-10-19 13:12:09 [INFO] Starting Chrome WebDriver
+2025-10-19 13:12:12 [INFO] Chrome PID: 21284
+2025-10-19 13:12:14 [INFO] Navigating to WhatsApp Web
+2025-10-19 13:12:14 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-19 13:12:39 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-19 13:12:39 [INFO] Opening group: debugtesting
+2025-10-19 13:12:39 [DEBUG] Opening group: debugtesting
+2025-10-19 13:12:44 [SUCCESS] Successfully opened group: debugtesting
+2025-10-19 13:12:44 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-19 13:12:44 [INFO] Starting WhatsApp Bot main loop
+2025-10-19 13:13:07 [INFO] Bot activated by user: Adham Byu
+2025-10-19 13:13:07 [DEBUG] Sending message: Halo Adham Byu, ada yang bisa saya bantu?
+2025-10-19 13:13:10 [SUCCESS] Message sent successfully
+2025-10-19 13:13:23 [INFO] Processing request: produksi ob
+2025-10-19 13:13:23 [ERROR] Failed to process command 'produksi ob' from Adham Byu: 'processing'
+2025-10-19 13:13:23 [DEBUG] Sending message: Gagal memproses perintah 'produksi ob'. Silakan coba lagi nanti.
+2025-10-19 13:13:28 [SUCCESS] Message sent successfully
+2025-10-19 13:13:28 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 13:13:30 [SUCCESS] Message sent successfully
+2025-10-19 13:13:59 [INFO] Processing request: produksi cc
+2025-10-19 13:13:59 [ERROR] Failed to process command 'produksi cc' from Adham Byu: 'processing'
+2025-10-19 13:13:59 [DEBUG] Sending message: Gagal memproses perintah 'produksi cc'. Silakan coba lagi nanti.
+2025-10-19 13:14:03 [SUCCESS] Message sent successfully
+2025-10-19 13:14:03 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 13:14:05 [SUCCESS] Message sent successfully
+2025-10-19 13:14:45 [INFO] Processing SQL request: total unit
+2025-10-19 13:14:45 [ERROR] Failed to process command 'total unit' from Adham Byu: 'processing'
+2025-10-19 13:14:45 [DEBUG] Sending message: Gagal memproses perintah 'total unit'. Silakan coba lagi nanti.
+2025-10-19 13:14:47 [SUCCESS] Message sent successfully
+2025-10-19 13:14:47 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 13:14:49 [SUCCESS] Message sent successfully
+2025-10-19 13:15:00 [DEBUG] User responded affirmatively
+2025-10-19 13:15:00 [DEBUG] Sending message: Apa yang bisa saya bantu? Ketik `help` untuk daftar perintah.
+2025-10-19 13:15:06 [SUCCESS] Message sent successfully
+2025-10-19 13:15:10 [DEBUG] User requested help
+2025-10-19 13:15:10 [DEBUG] Sending message: [MULTILINE]
+2025-10-19 13:15:35 [SUCCESS] Message sent successfully
+2025-10-19 13:16:05 [INFO] Processing request: produksi ob
+2025-10-19 13:16:05 [ERROR] Failed to process command 'produksi ob' from Adham Byu: 'processing'
+2025-10-19 13:16:05 [DEBUG] Sending message: Gagal memproses perintah 'produksi ob'. Silakan coba lagi nanti.
+2025-10-19 13:16:08 [SUCCESS] Message sent successfully
+2025-10-19 13:16:08 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 13:16:10 [SUCCESS] Message sent successfully
+2025-10-19 13:16:42 [INFO] Session ended by user: Adham Byu
+2025-10-19 13:16:42 [DEBUG] Sending message: Baik, sesi telah berakhir. Jika butuh bantuan, ketik 'bot mio'.
+2025-10-19 13:16:45 [SUCCESS] Message sent successfully
+2025-10-19 13:17:44 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-19 13:18:00 [INFO] Application terminated gracefully by user
+2025-10-19 13:18:07 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-19 13:18:07 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-19 13:18:07 [INFO] Initializing bot (attempt 1)
+2025-10-19 13:18:07 [INFO] Initializing WhatsApp Bot
+2025-10-19 13:18:07 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_03
+2025-10-19 13:18:07 [INFO] Running in visible mode
+2025-10-19 13:18:07 [INFO] Starting Chrome WebDriver
+2025-10-19 13:18:09 [INFO] Chrome PID: 27336
+2025-10-19 13:18:11 [INFO] Navigating to WhatsApp Web
+2025-10-19 13:18:11 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-19 13:18:20 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-19 13:18:20 [INFO] Opening group: debugtesting
+2025-10-19 13:18:20 [DEBUG] Opening group: debugtesting
+2025-10-19 13:18:24 [SUCCESS] Successfully opened group: debugtesting
+2025-10-19 13:18:24 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-19 13:18:24 [INFO] Starting WhatsApp Bot main loop
+2025-10-19 13:18:26 [INFO] Bot activated by user: Adham Byu
+2025-10-19 13:18:26 [DEBUG] Sending message: Halo Adham Byu, ada yang bisa saya bantu?
+2025-10-19 13:18:28 [SUCCESS] Message sent successfully
+2025-10-19 13:18:37 [INFO] Processing request: produksi ob
+2025-10-19 13:18:37 [ERROR] Failed to process command 'produksi ob' from Adham Byu: 'processing'
+2025-10-19 13:18:37 [DEBUG] Sending message: Gagal memproses perintah 'produksi ob'. Silakan coba lagi nanti.
+2025-10-19 13:18:40 [SUCCESS] Message sent successfully
+2025-10-19 13:18:40 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 13:18:42 [SUCCESS] Message sent successfully
+2025-10-19 13:19:15 [WARNING] Unknown command received: dotrace dt
+2025-10-19 13:19:15 [DEBUG] Sending message: Perintah tidak dikenal. Ketik `help` untuk daftar perintah. Ketik 'tidak' untuk mengakhiri sesi
+2025-10-19 13:19:25 [SUCCESS] Message sent successfully
+2025-10-19 13:19:29 [INFO] Executing Python request: dotrace pa2
+2025-10-19 13:19:29 [ERROR] Failed to process command 'dotrace pa2' from Adham Byu: 'processing'
+2025-10-19 13:19:29 [DEBUG] Sending message: Gagal memproses perintah 'dotrace pa2'. Silakan coba lagi nanti.
+2025-10-19 13:19:31 [SUCCESS] Message sent successfully
+2025-10-19 13:19:31 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 13:19:33 [SUCCESS] Message sent successfully
+2025-10-19 13:20:35 [WARNING] Session timeout for user: Adham Byu
+2025-10-19 13:20:35 [DEBUG] Sending message: Sesi telah dihentikan karena tidak ada respons dari Adham Byu selama 1 menit.
+2025-10-19 13:20:39 [SUCCESS] Message sent successfully
+2025-10-19 13:22:14 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-19 13:22:30 [INFO] Application terminated gracefully by user
+2025-10-19 13:23:58 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-19 13:23:58 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-19 13:23:58 [INFO] Initializing bot (attempt 1)
+2025-10-19 13:23:58 [INFO] Initializing WhatsApp Bot
+2025-10-19 13:23:58 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_03
+2025-10-19 13:23:58 [INFO] Running in visible mode
+2025-10-19 13:23:58 [INFO] Starting Chrome WebDriver
+2025-10-19 13:24:01 [INFO] Chrome PID: 14028
+2025-10-19 13:24:03 [INFO] Navigating to WhatsApp Web
+2025-10-19 13:24:03 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-19 13:24:13 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-19 13:24:13 [INFO] Opening group: debugtesting
+2025-10-19 13:24:13 [DEBUG] Opening group: debugtesting
+2025-10-19 13:24:16 [SUCCESS] Successfully opened group: debugtesting
+2025-10-19 13:24:16 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-19 13:24:16 [INFO] Starting WhatsApp Bot main loop
+2025-10-19 13:24:21 [INFO] Bot activated by user: Adham Byu
+2025-10-19 13:24:21 [DEBUG] Sending message: Halo Adham Byu, ada yang bisa saya bantu?
+2025-10-19 13:24:24 [SUCCESS] Message sent successfully
+2025-10-19 13:24:26 [INFO] Processing request: produksi ob
+2025-10-19 13:24:26 [ERROR] Failed to process command 'produksi ob' from Adham Byu: 'processing'
+2025-10-19 13:24:26 [DEBUG] Traceback details:
+Traceback (most recent call last):
+  File "c:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\mainv2.py", line 488, in run
+    if self.session_caller != "system_scheduler": self.send_message(self.messages["processing"].format(command=last_messages))
+                                                                    ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+KeyError: 'processing'
+
+2025-10-19 13:24:26 [DEBUG] Sending message: Gagal memproses perintah 'produksi ob'. Silakan coba lagi nanti.
+2025-10-19 13:24:29 [SUCCESS] Message sent successfully
+2025-10-19 13:24:29 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 13:24:32 [SUCCESS] Message sent successfully
+2025-10-19 13:25:10 [INFO] Processing request: produksi ob
+2025-10-19 13:25:10 [DEBUG] Sending message: Mohon menunggu, report produksi ob sedang dibuat..
+2025-10-19 13:25:13 [SUCCESS] Message sent successfully
+2025-10-19 13:25:13 [DEBUG] Open url in new tab: http://laptop-5hoeaio4/ReportServer/Pages/ReportViewer.aspx?%2freport+bangjo&rs:Command=Render
+2025-10-19 13:25:15 [DEBUG] Switch tab to: D982DCD65EB45F5A9EE7C725817C7228
+2025-10-19 13:25:15 [DEBUG] Input parameter to: produksi ob
+2025-10-19 13:25:15 [DEBUG] Input parameter to: input date
+2025-10-19 13:25:15 [DEBUG] Generating current date
+2025-10-19 13:25:15 [DEBUG] Input parameter to: menu shift
+2025-10-19 13:25:15 [DEBUG] Input parameter to: select shift all
+2025-10-19 13:25:16 [DEBUG] Input parameter to: menu material
+2025-10-19 13:25:16 [DEBUG] Input parameter to: select material ob
+2025-10-19 13:25:16 [DEBUG] Input parameter to: submit
+2025-10-19 13:25:21 [DEBUG] Generating current date
+2025-10-19 13:25:21 [DEBUG] Resizing windows
+2025-10-19 13:25:27 [DEBUG] Taking Screenshot: D982DCD65EB45F5A9EE7C725817C7228.png
+2025-10-19 13:25:27 [DEBUG] Closing new tab
+2025-10-19 13:25:27 [DEBUG] Opening group: debugtesting
+2025-10-19 13:25:29 [SUCCESS] Successfully opened group: debugtesting
+2025-10-19 13:25:29 [DEBUG] Sending image: D982DCD65EB45F5A9EE7C725817C7228.png with caption: ['*Update Bangjo Produksi OB All Shfit* 2025-10-19']
+2025-10-19 13:25:29 [DEBUG] Converting image to base64: D982DCD65EB45F5A9EE7C725817C7228.png
+2025-10-19 13:25:29 [DEBUG] Executing JavaScript paste event for D982DCD65EB45F5A9EE7C725817C7228.png
+2025-10-19 13:25:32 [DEBUG] Send *Update Bangjo Produksi OB All Shfit* 2025-10-19
+2025-10-19 13:25:38 [DEBUG] HD quality option not available, skipping
+2025-10-19 13:25:38 [SUCCESS] Image sent successfully
+2025-10-19 13:25:38 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 13:25:42 [SUCCESS] Message sent successfully
+2025-10-19 13:25:42 [SUCCESS] Successfully processed request: produksi ob
+2025-10-19 13:25:48 [INFO] Processing request: produksi cc
+2025-10-19 13:25:48 [DEBUG] Sending message: Mohon menunggu, report produksi cc sedang dibuat..
+2025-10-19 13:25:50 [SUCCESS] Message sent successfully
+2025-10-19 13:25:50 [DEBUG] Open url in new tab: http://laptop-5hoeaio4/ReportServer/Pages/ReportViewer.aspx?%2freport+bangjo&rs:Command=Render
+2025-10-19 13:25:51 [DEBUG] Switch tab to: E510770841068951EF86759948E65675
+2025-10-19 13:25:51 [DEBUG] Input parameter to: produksi cc
+2025-10-19 13:25:51 [DEBUG] Input parameter to: input date
+2025-10-19 13:25:51 [DEBUG] Generating current date
+2025-10-19 13:25:51 [DEBUG] Input parameter to: menu shift
+2025-10-19 13:25:51 [DEBUG] Input parameter to: select shift all
+2025-10-19 13:25:51 [DEBUG] Input parameter to: menu material
+2025-10-19 13:25:52 [DEBUG] Input parameter to: select material cc
+2025-10-19 13:25:52 [DEBUG] Input parameter to: submit
+2025-10-19 13:25:57 [DEBUG] Resizing windows
+2025-10-19 13:26:02 [DEBUG] Taking Screenshot: E510770841068951EF86759948E65675.png
+2025-10-19 13:26:02 [DEBUG] Closing new tab
+2025-10-19 13:26:03 [DEBUG] Opening group: debugtesting
+2025-10-19 13:26:04 [SUCCESS] Successfully opened group: debugtesting
+2025-10-19 13:26:04 [DEBUG] Sending image: E510770841068951EF86759948E65675.png with caption: ['captionbox', '*Update Bangjo OB*', '10/19/2025', '', 'Total Produksi:']
+2025-10-19 13:26:04 [DEBUG] Converting image to base64: E510770841068951EF86759948E65675.png
+2025-10-19 13:26:04 [DEBUG] Executing JavaScript paste event for E510770841068951EF86759948E65675.png
+2025-10-19 13:26:07 [DEBUG] Send captionbox
+2025-10-19 13:26:07 [DEBUG] Send *Update Bangjo OB*
+2025-10-19 13:26:08 [DEBUG] Send 10/19/2025
+2025-10-19 13:26:08 [DEBUG] Send 
+2025-10-19 13:26:08 [DEBUG] Send Total Produksi:
+2025-10-19 13:26:13 [DEBUG] HD quality option not available, skipping
+2025-10-19 13:26:13 [SUCCESS] Image sent successfully
+2025-10-19 13:26:13 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 13:26:16 [SUCCESS] Message sent successfully
+2025-10-19 13:26:16 [SUCCESS] Successfully processed request: produksi cc
+2025-10-19 13:26:36 [INFO] Session ended by user: Adham Byu
+2025-10-19 13:26:36 [DEBUG] Sending message: Baik, sesi telah berakhir. Jika butuh bantuan, ketik 'bot mio'.
+2025-10-19 13:26:39 [SUCCESS] Message sent successfully
+2025-10-19 13:29:41 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-19 13:29:57 [INFO] Application terminated gracefully by user
+2025-10-19 14:07:33 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-19 14:07:33 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-19 14:07:33 [INFO] Initializing bot (attempt 1)
+2025-10-19 14:07:33 [INFO] Initializing WhatsApp Bot
+2025-10-19 14:07:33 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_03
+2025-10-19 14:07:33 [INFO] Running in visible mode
+2025-10-19 14:07:33 [INFO] Starting Chrome WebDriver
+2025-10-19 14:07:36 [INFO] Chrome PID: 25300
+2025-10-19 14:07:38 [INFO] Navigating to WhatsApp Web
+2025-10-19 14:07:38 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-19 14:07:44 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-19 14:07:44 [INFO] Opening group: debugtesting
+2025-10-19 14:07:44 [DEBUG] Opening group: debugtesting
+2025-10-19 14:07:46 [SUCCESS] Successfully opened group: debugtesting
+2025-10-19 14:07:46 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-19 14:07:46 [INFO] Starting WhatsApp Bot main loop
+2025-10-19 14:07:51 [INFO] Bot activated by user: Adham Byu
+2025-10-19 14:07:51 [DEBUG] Sending message: Halo Adham Byu, ada yang bisa saya bantu?
+2025-10-19 14:07:55 [SUCCESS] Message sent successfully
+2025-10-19 14:07:59 [INFO] Processing request: produksi cc
+2025-10-19 14:07:59 [DEBUG] Sending message: Mohon menunggu, report produksi cc sedang dibuat..
+2025-10-19 14:08:01 [SUCCESS] Message sent successfully
+2025-10-19 14:08:01 [DEBUG] Open url in new tab: http://laptop-5hoeaio4/ReportServer/Pages/ReportViewer.aspx?%2freport+bangjo&rs:Command=Render
+2025-10-19 14:08:02 [DEBUG] Switch tab to: 9FB544FF1F7734FE4BCAB8BFD28CBDE3
+2025-10-19 14:08:02 [DEBUG] Input parameter to: produksi cc
+2025-10-19 14:08:02 [DEBUG] Input parameter to: input date
+2025-10-19 14:08:02 [DEBUG] Generating current date
+2025-10-19 14:08:02 [DEBUG] Input parameter to: menu shift
+2025-10-19 14:08:03 [DEBUG] Input parameter to: select shift all
+2025-10-19 14:08:03 [DEBUG] Input parameter to: menu material
+2025-10-19 14:08:03 [DEBUG] Input parameter to: select material cc
+2025-10-19 14:08:03 [DEBUG] Input parameter to: submit
+2025-10-19 14:08:08 [DEBUG] Resizing windows
+2025-10-19 14:08:13 [DEBUG] Taking Screenshot: 9FB544FF1F7734FE4BCAB8BFD28CBDE3.png
+2025-10-19 14:08:13 [DEBUG] Closing new tab
+2025-10-19 14:08:14 [DEBUG] Opening group: debugtesting
+2025-10-19 14:08:14 [SUCCESS] Successfully opened group: debugtesting
+2025-10-19 14:08:14 [DEBUG] Sending image: 9FB544FF1F7734FE4BCAB8BFD28CBDE3.png with caption: ['*Update Bangjo OB*', '10/19/2025', '', 'Total Produksi:']
+2025-10-19 14:08:14 [DEBUG] Converting image to base64: 9FB544FF1F7734FE4BCAB8BFD28CBDE3.png
+2025-10-19 14:08:14 [DEBUG] Executing JavaScript paste event for 9FB544FF1F7734FE4BCAB8BFD28CBDE3.png
+2025-10-19 14:08:18 [DEBUG] Send *Update Bangjo OB*
+2025-10-19 14:08:18 [DEBUG] Send 10/19/2025
+2025-10-19 14:08:18 [DEBUG] Send 
+2025-10-19 14:08:18 [DEBUG] Send Total Produksi:
+2025-10-19 14:08:23 [DEBUG] HD quality option not available, skipping
+2025-10-19 14:08:23 [SUCCESS] Image sent successfully
+2025-10-19 14:08:23 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 14:08:25 [SUCCESS] Message sent successfully
+2025-10-19 14:08:25 [SUCCESS] Successfully processed request: produksi cc
+2025-10-19 14:08:30 [INFO] Session ended by user: Adham Byu
+2025-10-19 14:08:30 [DEBUG] Sending message: Baik, sesi telah berakhir. Jika butuh bantuan, ketik 'bot mio'.
+2025-10-19 14:08:32 [SUCCESS] Message sent successfully
+2025-10-19 14:08:46 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-19 14:09:03 [INFO] Application terminated gracefully by user

@@ -1,0 +1,1023 @@
+2025-10-03 11:16:07 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:16:07 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:16:07 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:16:07 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:16:07 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:16:07 [INFO] Running in headless mode
+2025-10-03 11:16:07 [INFO] Starting Chrome WebDriver
+2025-10-03 11:16:10 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:16:10 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-03 11:16:10 [INFO] Restarting in 5 seconds...
+2025-10-03 11:16:11 [INFO] Restarting in 4 seconds...
+2025-10-03 11:16:12 [INFO] Restarting in 3 seconds...
+2025-10-03 11:16:13 [INFO] Restarting in 2 seconds...
+2025-10-03 11:16:14 [INFO] Restarting in 1 seconds...
+2025-10-03 11:16:15 [INFO] Attempting to restart the bot...
+2025-10-03 11:16:15 [INFO] Initializing bot (attempt 2)
+2025-10-03 11:16:15 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:16:15 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:16:15 [INFO] Running in headless mode
+2025-10-03 11:16:15 [INFO] Starting Chrome WebDriver
+2025-10-03 11:16:18 [ERROR] Unexpected error (attempt 2): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:16:18 [WARNING] Restarting in 10 seconds... (attempt 2/5)
+2025-10-03 11:16:18 [INFO] Restarting in 10 seconds...
+2025-10-03 11:16:23 [INFO] Restarting in 5 seconds...
+2025-10-03 11:16:24 [INFO] Restarting in 4 seconds...
+2025-10-03 11:16:25 [INFO] Restarting in 3 seconds...
+2025-10-03 11:16:26 [INFO] Restarting in 2 seconds...
+2025-10-03 11:16:27 [INFO] Restarting in 1 seconds...
+2025-10-03 11:16:28 [INFO] Attempting to restart the bot...
+2025-10-03 11:16:28 [INFO] Initializing bot (attempt 3)
+2025-10-03 11:16:28 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:16:28 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:16:28 [INFO] Running in headless mode
+2025-10-03 11:16:28 [INFO] Starting Chrome WebDriver
+2025-10-03 11:16:31 [ERROR] Unexpected error (attempt 3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:16:31 [WARNING] Restarting in 15 seconds... (attempt 3/5)
+2025-10-03 11:16:36 [INFO] Restarting in 10 seconds...
+2025-10-03 11:16:41 [INFO] Restarting in 5 seconds...
+2025-10-03 11:16:42 [INFO] Restarting in 4 seconds...
+2025-10-03 11:16:43 [INFO] Restarting in 3 seconds...
+2025-10-03 11:16:44 [INFO] Restarting in 2 seconds...
+2025-10-03 11:16:45 [INFO] Restarting in 1 seconds...
+2025-10-03 11:16:46 [INFO] Attempting to restart the bot...
+2025-10-03 11:16:46 [INFO] Initializing bot (attempt 4)
+2025-10-03 11:16:46 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:16:46 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:16:46 [INFO] Running in headless mode
+2025-10-03 11:16:46 [INFO] Starting Chrome WebDriver
+2025-10-03 11:16:49 [ERROR] Unexpected error (attempt 4): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:16:49 [WARNING] Restarting in 20 seconds... (attempt 4/5)
+2025-10-03 11:16:49 [INFO] Restarting in 20 seconds...
+2025-10-03 11:16:59 [INFO] Restarting in 10 seconds...
+2025-10-03 11:17:04 [INFO] Restarting in 5 seconds...
+2025-10-03 11:17:05 [INFO] Restarting in 4 seconds...
+2025-10-03 11:17:06 [INFO] Restarting in 3 seconds...
+2025-10-03 11:17:07 [INFO] Restarting in 2 seconds...
+2025-10-03 11:17:08 [INFO] Restarting in 1 seconds...
+2025-10-03 11:17:09 [INFO] Attempting to restart the bot...
+2025-10-03 11:17:09 [INFO] Initializing bot (attempt 5)
+2025-10-03 11:17:09 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:17:09 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:17:09 [INFO] Running in headless mode
+2025-10-03 11:17:09 [INFO] Starting Chrome WebDriver
+2025-10-03 11:17:12 [ERROR] Unexpected error (attempt 5): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:17:12 [CRITICAL] Maximum restart attempts (5) reached. Exiting...
+2025-10-03 11:19:50 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:19:50 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:19:50 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:19:50 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:19:50 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:19:50 [INFO] Running in headless mode
+2025-10-03 11:19:50 [INFO] Starting Chrome WebDriver
+2025-10-03 11:19:53 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:19:53 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-03 11:19:53 [INFO] Restarting in 5 seconds...
+2025-10-03 11:19:54 [INFO] Restarting in 4 seconds...
+2025-10-03 11:19:55 [INFO] Restarting in 3 seconds...
+2025-10-03 11:19:56 [INFO] Restarting in 2 seconds...
+2025-10-03 11:19:57 [INFO] Restarting in 1 seconds...
+2025-10-03 11:19:58 [INFO] Attempting to restart the bot...
+2025-10-03 11:19:58 [INFO] Initializing bot (attempt 2)
+2025-10-03 11:19:58 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:19:58 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:19:58 [INFO] Running in headless mode
+2025-10-03 11:19:58 [INFO] Starting Chrome WebDriver
+2025-10-03 11:20:00 [ERROR] Unexpected error (attempt 2): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:20:00 [WARNING] Restarting in 10 seconds... (attempt 2/5)
+2025-10-03 11:20:00 [INFO] Restarting in 10 seconds...
+2025-10-03 11:20:05 [INFO] Restarting in 5 seconds...
+2025-10-03 11:20:06 [INFO] Restarting in 4 seconds...
+2025-10-03 11:20:07 [INFO] Restarting in 3 seconds...
+2025-10-03 11:20:08 [INFO] Restarting in 2 seconds...
+2025-10-03 11:20:09 [INFO] Restarting in 1 seconds...
+2025-10-03 11:20:10 [INFO] Attempting to restart the bot...
+2025-10-03 11:20:10 [INFO] Initializing bot (attempt 3)
+2025-10-03 11:20:10 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:20:10 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:20:10 [INFO] Running in headless mode
+2025-10-03 11:20:10 [INFO] Starting Chrome WebDriver
+2025-10-03 11:20:13 [ERROR] Unexpected error (attempt 3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:20:13 [WARNING] Restarting in 15 seconds... (attempt 3/5)
+2025-10-03 11:20:18 [INFO] Restarting in 10 seconds...
+2025-10-03 11:20:23 [INFO] Restarting in 5 seconds...
+2025-10-03 11:20:24 [INFO] Restarting in 4 seconds...
+2025-10-03 11:20:25 [INFO] Restarting in 3 seconds...
+2025-10-03 11:20:26 [INFO] Restarting in 2 seconds...
+2025-10-03 11:20:27 [INFO] Restarting in 1 seconds...
+2025-10-03 11:20:28 [INFO] Attempting to restart the bot...
+2025-10-03 11:20:28 [INFO] Initializing bot (attempt 4)
+2025-10-03 11:20:28 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:20:28 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:20:28 [INFO] Running in headless mode
+2025-10-03 11:20:28 [INFO] Starting Chrome WebDriver
+2025-10-03 11:20:31 [ERROR] Unexpected error (attempt 4): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:20:31 [WARNING] Restarting in 20 seconds... (attempt 4/5)
+2025-10-03 11:20:31 [INFO] Restarting in 20 seconds...
+2025-10-03 11:20:41 [INFO] Restarting in 10 seconds...
+2025-10-03 11:20:46 [INFO] Restarting in 5 seconds...
+2025-10-03 11:20:47 [INFO] Restarting in 4 seconds...
+2025-10-03 11:20:48 [INFO] Restarting in 3 seconds...
+2025-10-03 11:20:49 [INFO] Restarting in 2 seconds...
+2025-10-03 11:20:50 [INFO] Restarting in 1 seconds...
+2025-10-03 11:20:51 [INFO] Attempting to restart the bot...
+2025-10-03 11:20:51 [INFO] Initializing bot (attempt 5)
+2025-10-03 11:20:51 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:20:51 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:20:51 [INFO] Running in headless mode
+2025-10-03 11:20:51 [INFO] Starting Chrome WebDriver
+2025-10-03 11:20:54 [ERROR] Unexpected error (attempt 5): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:20:54 [CRITICAL] Maximum restart attempts (5) reached. Exiting...
+2025-10-03 11:23:33 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:23:33 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:23:33 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:23:33 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:23:33 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:23:33 [INFO] Running in headless mode
+2025-10-03 11:23:33 [INFO] Starting Chrome WebDriver
+2025-10-03 11:23:38 [INFO] Navigating to WhatsApp Web
+2025-10-03 11:23:38 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-03 11:23:47 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-03 11:23:47 [INFO] Opening group: debugtesting
+2025-10-03 11:23:47 [DEBUG] Opening group: debugtesting
+2025-10-03 11:23:49 [SUCCESS] Successfully opened group: debugtesting
+2025-10-03 11:23:49 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-03 11:23:49 [INFO] Starting WhatsApp Bot main loop
+2025-10-03 11:24:13 [INFO] Bot activated by user: Adham Byu
+2025-10-03 11:24:13 [DEBUG] Sending message: Halo Adham Byu, ada yang bisa saya bantu?
+2025-10-03 11:24:16 [SUCCESS] Message sent successfully
+2025-10-03 11:24:20 [INFO] Executing Python request: bottom speed
+2025-10-03 11:24:33 [DEBUG] Sending image: underspeed_chart_950fb495.png with caption: Bottom Speed PA2-SELATAN - 2025-10-03 11:24
+2025-10-03 11:24:33 [DEBUG] Converting image to base64: underspeed_chart_950fb495.png
+2025-10-03 11:24:34 [DEBUG] Executing JavaScript paste event for underspeed_chart_950fb495.png
+2025-10-03 11:24:42 [DEBUG] HD quality option not available, skipping
+2025-10-03 11:24:42 [SUCCESS] Image sent successfully
+2025-10-03 11:24:42 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-03 11:24:44 [SUCCESS] Message sent successfully
+2025-10-03 11:24:44 [SUCCESS] Successfully processed request: bottom speed
+2025-10-03 11:24:48 [INFO] Session ended by user: Adham Byu
+2025-10-03 11:24:48 [DEBUG] Sending message: Baik, sesi telah berakhir. Jika butuh bantuan, ketik 'bot mio'.
+2025-10-03 11:24:51 [SUCCESS] Message sent successfully
+2025-10-03 11:24:54 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-03 11:25:10 [INFO] Application terminated gracefully by user
+2025-10-03 11:25:50 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:25:50 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:25:50 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:25:50 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:25:50 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:25:50 [INFO] Running in headless mode
+2025-10-03 11:25:50 [INFO] Starting Chrome WebDriver
+2025-10-03 11:25:53 [INFO] Navigating to WhatsApp Web
+2025-10-03 11:25:53 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-03 11:26:10 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-03 11:26:10 [INFO] Opening group: debugtesting
+2025-10-03 11:26:10 [DEBUG] Opening group: debugtesting
+2025-10-03 11:26:13 [SUCCESS] Successfully opened group: debugtesting
+2025-10-03 11:26:13 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-03 11:26:13 [INFO] Starting WhatsApp Bot main loop
+2025-10-03 11:26:23 [INFO] Bot activated by user: Adham Byu
+2025-10-03 11:26:23 [DEBUG] Sending message: Halo Adham Byu, ada yang bisa saya bantu?
+2025-10-03 11:26:29 [SUCCESS] Message sent successfully
+2025-10-03 11:26:38 [DEBUG] User requested help
+2025-10-03 11:26:38 [DEBUG] Sending message: [MULTILINE]
+2025-10-03 11:26:57 [SUCCESS] Message sent successfully
+2025-10-03 11:27:03 [INFO] Session ended by user: Adham Byu
+2025-10-03 11:27:03 [DEBUG] Sending message: Baik, sesi telah berakhir. Jika butuh bantuan, ketik 'bot mio'.
+2025-10-03 11:27:07 [SUCCESS] Message sent successfully
+2025-10-03 11:30:09 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-03 11:30:21 [INFO] Application terminated gracefully by user
+2025-10-03 11:30:47 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:30:47 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:30:47 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:30:47 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:30:47 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:30:47 [INFO] Running in headless mode
+2025-10-03 11:30:47 [INFO] Starting Chrome WebDriver
+2025-10-03 11:30:50 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:30:50 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-03 11:30:50 [INFO] Restarting in 5 seconds...
+2025-10-03 11:30:51 [INFO] Restarting in 4 seconds...
+2025-10-03 11:30:52 [INFO] Restarting in 3 seconds...
+2025-10-03 11:30:53 [INFO] Restarting in 2 seconds...
+2025-10-03 11:30:54 [INFO] Restarting in 1 seconds...
+2025-10-03 11:30:55 [INFO] Attempting to restart the bot...
+2025-10-03 11:30:55 [INFO] Initializing bot (attempt 2)
+2025-10-03 11:30:55 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:30:55 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:30:55 [INFO] Running in headless mode
+2025-10-03 11:30:55 [INFO] Starting Chrome WebDriver
+2025-10-03 11:30:58 [ERROR] Unexpected error (attempt 2): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:30:58 [WARNING] Restarting in 10 seconds... (attempt 2/5)
+2025-10-03 11:30:58 [INFO] Restarting in 10 seconds...
+2025-10-03 11:31:03 [INFO] Restarting in 5 seconds...
+2025-10-03 11:31:04 [INFO] Restarting in 4 seconds...
+2025-10-03 11:31:05 [INFO] Restarting in 3 seconds...
+2025-10-03 11:31:06 [INFO] Restarting in 2 seconds...
+2025-10-03 11:31:07 [INFO] Restarting in 1 seconds...
+2025-10-03 11:31:08 [INFO] Attempting to restart the bot...
+2025-10-03 11:31:08 [INFO] Initializing bot (attempt 3)
+2025-10-03 11:31:08 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:31:08 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:31:08 [INFO] Running in headless mode
+2025-10-03 11:31:08 [INFO] Starting Chrome WebDriver
+2025-10-03 11:31:11 [ERROR] Unexpected error (attempt 3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:31:11 [WARNING] Restarting in 15 seconds... (attempt 3/5)
+2025-10-03 11:33:37 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:33:37 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:33:37 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:33:37 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:33:37 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:33:37 [INFO] Running in headless mode
+2025-10-03 11:33:37 [INFO] Starting Chrome WebDriver
+2025-10-03 11:33:40 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:33:40 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-03 11:33:40 [INFO] Restarting in 5 seconds...
+2025-10-03 11:33:41 [INFO] Restarting in 4 seconds...
+2025-10-03 11:33:42 [INFO] Restarting in 3 seconds...
+2025-10-03 11:35:23 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:35:23 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:35:23 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:35:23 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:35:23 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:35:23 [INFO] Running in headless mode
+2025-10-03 11:35:23 [INFO] Starting Chrome WebDriver
+2025-10-03 11:35:26 [INFO] Navigating to WhatsApp Web
+2025-10-03 11:35:26 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-03 11:35:40 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-03 11:35:40 [INFO] Opening group: debugtesting
+2025-10-03 11:35:40 [DEBUG] Opening group: debugtesting
+2025-10-03 11:35:43 [SUCCESS] Successfully opened group: debugtesting
+2025-10-03 11:35:43 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-03 11:35:43 [INFO] Starting WhatsApp Bot main loop
+2025-10-03 11:35:49 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-03 11:36:01 [INFO] Application terminated gracefully by user
+2025-10-03 11:36:13 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:36:13 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:36:13 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:36:13 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:36:13 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:36:13 [INFO] Running in headless mode
+2025-10-03 11:36:13 [INFO] Starting Chrome WebDriver
+2025-10-03 11:36:16 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:36:16 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-03 11:36:16 [INFO] Restarting in 5 seconds...
+2025-10-03 11:36:17 [INFO] Restarting in 4 seconds...
+2025-10-03 11:36:18 [INFO] Restarting in 3 seconds...
+2025-10-03 11:36:19 [INFO] Restarting in 2 seconds...
+2025-10-03 11:36:20 [INFO] Restarting in 1 seconds...
+2025-10-03 11:36:21 [INFO] Attempting to restart the bot...
+2025-10-03 11:36:21 [INFO] Initializing bot (attempt 2)
+2025-10-03 11:36:21 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:36:21 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:36:21 [INFO] Running in headless mode
+2025-10-03 11:36:21 [INFO] Starting Chrome WebDriver
+2025-10-03 11:36:24 [ERROR] Unexpected error (attempt 2): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:36:24 [WARNING] Restarting in 10 seconds... (attempt 2/5)
+2025-10-03 11:36:24 [INFO] Restarting in 10 seconds...
+2025-10-03 11:36:29 [INFO] Restarting in 5 seconds...
+2025-10-03 11:36:30 [INFO] Restarting in 4 seconds...
+2025-10-03 11:36:31 [INFO] Restarting in 3 seconds...
+2025-10-03 11:36:32 [INFO] Restarting in 2 seconds...
+2025-10-03 11:36:33 [INFO] Restarting in 1 seconds...
+2025-10-03 11:36:34 [INFO] Attempting to restart the bot...
+2025-10-03 11:36:34 [INFO] Initializing bot (attempt 3)
+2025-10-03 11:36:34 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:36:34 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:36:34 [INFO] Running in headless mode
+2025-10-03 11:36:34 [INFO] Starting Chrome WebDriver
+2025-10-03 11:36:37 [ERROR] Unexpected error (attempt 3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:36:37 [WARNING] Restarting in 15 seconds... (attempt 3/5)
+2025-10-03 11:43:19 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:43:19 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:43:19 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:43:19 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:43:19 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:43:19 [INFO] Running in headless mode
+2025-10-03 11:43:19 [INFO] Starting Chrome WebDriver
+2025-10-03 11:43:23 [INFO] Navigating to WhatsApp Web
+2025-10-03 11:43:23 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-03 11:43:41 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-03 11:43:41 [INFO] Opening group: debugtesting
+2025-10-03 11:43:41 [DEBUG] Opening group: debugtesting
+2025-10-03 11:43:46 [SUCCESS] Successfully opened group: debugtesting
+2025-10-03 11:43:46 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-03 11:43:46 [INFO] Starting WhatsApp Bot main loop
+2025-10-03 11:44:24 [INFO] Bot activated by user: Adham Byu
+2025-10-03 11:44:24 [DEBUG] Sending message: Halo Adham Byu, ada yang bisa saya bantu?
+2025-10-03 11:44:28 [SUCCESS] Message sent successfully
+2025-10-03 11:44:31 [INFO] Session ended by user: Adham Byu
+2025-10-03 11:44:31 [DEBUG] Sending message: Baik, sesi telah berakhir. Jika butuh bantuan, ketik 'bot mio'.
+2025-10-03 11:44:35 [SUCCESS] Message sent successfully
+2025-10-03 11:46:55 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:46:55 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:46:55 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:46:55 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:46:55 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:46:55 [INFO] Running in headless mode
+2025-10-03 11:46:55 [INFO] Starting Chrome WebDriver
+2025-10-03 11:46:58 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:46:58 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-03 11:46:58 [INFO] Restarting in 5 seconds...
+2025-10-03 11:46:59 [INFO] Restarting in 4 seconds...
+2025-10-03 11:47:00 [INFO] Restarting in 3 seconds...
+2025-10-03 11:47:01 [INFO] Restarting in 2 seconds...
+2025-10-03 11:47:02 [INFO] Restarting in 1 seconds...
+2025-10-03 11:54:43 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:54:43 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:54:43 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:54:43 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:54:43 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:54:43 [INFO] Running in headless mode
+2025-10-03 11:54:43 [INFO] Starting Chrome WebDriver
+2025-10-03 11:54:54 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:54:54 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-03 11:54:54 [INFO] Restarting in 5 seconds...
+2025-10-03 11:54:55 [INFO] Restarting in 4 seconds...
+2025-10-03 11:55:32 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:55:32 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:55:32 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:55:32 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:55:32 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:55:32 [INFO] Running in headless mode
+2025-10-03 11:55:32 [INFO] Starting Chrome WebDriver
+2025-10-03 11:55:36 [INFO] Navigating to WhatsApp Web
+2025-10-03 11:55:36 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-03 11:55:49 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-03 11:55:49 [INFO] Opening group: debugtesting
+2025-10-03 11:55:49 [DEBUG] Opening group: debugtesting
+2025-10-03 11:55:53 [SUCCESS] Successfully opened group: debugtesting
+2025-10-03 11:55:53 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-03 11:55:53 [INFO] Starting WhatsApp Bot main loop
+2025-10-03 11:56:05 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-03 11:56:17 [INFO] Application terminated gracefully by user
+2025-10-03 11:56:24 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 11:56:24 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 11:56:24 [INFO] Initializing bot (attempt 1)
+2025-10-03 11:56:24 [INFO] Initializing WhatsApp Bot
+2025-10-03 11:56:24 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 11:56:24 [INFO] Running in headless mode
+2025-10-03 11:56:24 [INFO] Starting Chrome WebDriver
+2025-10-03 11:56:27 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 11:56:27 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-03 11:56:27 [INFO] Restarting in 5 seconds...
+2025-10-03 11:56:28 [INFO] Restarting in 4 seconds...
+2025-10-03 12:02:25 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 12:02:25 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 12:02:25 [INFO] Initializing bot (attempt 1)
+2025-10-03 12:02:25 [INFO] Initializing WhatsApp Bot
+2025-10-03 12:02:25 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 12:02:25 [INFO] Running in headless mode
+2025-10-03 12:02:25 [INFO] Starting Chrome WebDriver
+2025-10-03 12:02:29 [INFO] Navigating to WhatsApp Web
+2025-10-03 12:02:29 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-03 12:02:47 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-03 12:02:47 [INFO] Opening group: debugtesting
+2025-10-03 12:02:47 [DEBUG] Opening group: debugtesting
+2025-10-03 12:02:51 [SUCCESS] Successfully opened group: debugtesting
+2025-10-03 12:02:51 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-03 12:02:51 [INFO] Starting WhatsApp Bot main loop
+2025-10-03 12:03:18 [INFO] Bot activated by user: Adham Byu
+2025-10-03 12:03:18 [DEBUG] Sending message: Halo Adham Byu, ada yang bisa saya bantu?
+2025-10-03 12:03:22 [SUCCESS] Message sent successfully
+2025-10-03 12:03:29 [INFO] Session ended by user: Adham Byu
+2025-10-03 12:03:29 [DEBUG] Sending message: Baik, sesi telah berakhir. Jika butuh bantuan, ketik 'bot mio'.
+2025-10-03 12:03:33 [SUCCESS] Message sent successfully
+2025-10-03 12:03:56 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 12:03:56 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 12:03:56 [INFO] Initializing bot (attempt 1)
+2025-10-03 12:03:56 [INFO] Initializing WhatsApp Bot
+2025-10-03 12:03:56 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 12:03:56 [INFO] Running in headless mode
+2025-10-03 12:03:56 [INFO] Starting Chrome WebDriver
+2025-10-03 12:03:59 [ERROR] Unexpected error (attempt 1): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 12:03:59 [WARNING] Restarting in 5 seconds... (attempt 1/5)
+2025-10-03 12:03:59 [INFO] Restarting in 5 seconds...
+2025-10-03 12:04:00 [INFO] Restarting in 4 seconds...
+2025-10-03 12:04:01 [INFO] Restarting in 3 seconds...
+2025-10-03 12:04:02 [INFO] Restarting in 2 seconds...
+2025-10-03 12:04:03 [INFO] Restarting in 1 seconds...
+2025-10-03 12:04:04 [INFO] Attempting to restart the bot...
+2025-10-03 12:04:04 [INFO] Initializing bot (attempt 2)
+2025-10-03 12:04:04 [INFO] Initializing WhatsApp Bot
+2025-10-03 12:04:04 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 12:04:04 [INFO] Running in headless mode
+2025-10-03 12:04:04 [INFO] Starting Chrome WebDriver
+2025-10-03 12:04:07 [ERROR] Unexpected error (attempt 2): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 12:04:07 [WARNING] Restarting in 10 seconds... (attempt 2/5)
+2025-10-03 12:04:07 [INFO] Restarting in 10 seconds...
+2025-10-03 12:04:12 [INFO] Restarting in 5 seconds...
+2025-10-03 12:04:13 [INFO] Restarting in 4 seconds...
+2025-10-03 12:04:14 [INFO] Restarting in 3 seconds...
+2025-10-03 12:04:15 [INFO] Restarting in 2 seconds...
+2025-10-03 12:04:16 [INFO] Restarting in 1 seconds...
+2025-10-03 12:04:17 [INFO] Attempting to restart the bot...
+2025-10-03 12:04:17 [INFO] Initializing bot (attempt 3)
+2025-10-03 12:04:17 [INFO] Initializing WhatsApp Bot
+2025-10-03 12:04:17 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 12:04:17 [INFO] Running in headless mode
+2025-10-03 12:04:17 [INFO] Starting Chrome WebDriver
+2025-10-03 12:04:20 [ERROR] Unexpected error (attempt 3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff701ff1eb5+80197]
+	GetHandleVerifier [0x0x7ff701ff1f10+80288]
+	(No symbol) [0x0x7ff701d702fa]
+	(No symbol) [0x0x7ff701dafd24]
+	(No symbol) [0x0x7ff701da9bd0]
+	(No symbol) [0x0x7ff701dfe0ef]
+	(No symbol) [0x0x7ff701dfd870]
+	(No symbol) [0x0x7ff701df0153]
+	(No symbol) [0x0x7ff701db8b02]
+	(No symbol) [0x0x7ff701db98d3]
+	GetHandleVerifier [0x0x7ff7022ae83d+2949837]
+	GetHandleVerifier [0x0x7ff7022a8c6a+2926330]
+	GetHandleVerifier [0x0x7ff7022c86c7+3055959]
+	GetHandleVerifier [0x0x7ff70200cfee+191102]
+	GetHandleVerifier [0x0x7ff7020150af+224063]
+	GetHandleVerifier [0x0x7ff701ffaf64+117236]
+	GetHandleVerifier [0x0x7ff701ffb119+117673]
+	GetHandleVerifier [0x0x7ff701fe10a8+11064]
+	BaseThreadInitThunk [0x0x7ff937c2e8d7+23]
+	RtlUserThreadStart [0x0x7ff938d48d9c+44]
+
+2025-10-03 12:04:20 [WARNING] Restarting in 15 seconds... (attempt 3/5)
+2025-10-03 12:11:34 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 12:11:34 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 12:11:34 [INFO] Initializing bot (attempt 1)
+2025-10-03 12:11:34 [INFO] Initializing WhatsApp Bot
+2025-10-03 12:11:34 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 12:11:34 [INFO] Running in headless mode
+2025-10-03 12:11:34 [INFO] Starting Chrome WebDriver
+2025-10-03 12:11:39 [INFO] Navigating to WhatsApp Web
+2025-10-03 12:11:39 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-03 12:11:47 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-03 12:11:47 [INFO] Opening group: debugtesting
+2025-10-03 12:11:47 [DEBUG] Opening group: debugtesting
+2025-10-03 12:11:49 [SUCCESS] Successfully opened group: debugtesting
+2025-10-03 12:11:49 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-03 12:11:49 [INFO] Starting WhatsApp Bot main loop
+2025-10-03 12:11:52 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-03 12:12:13 [INFO] Application terminated gracefully by user
+2025-10-03 12:12:19 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 12:12:19 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 12:12:19 [INFO] Initializing bot (attempt 1)
+2025-10-03 12:12:19 [INFO] Initializing WhatsApp Bot
+2025-10-03 12:12:19 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 12:12:19 [INFO] Running in headless mode
+2025-10-03 12:12:19 [INFO] Starting Chrome WebDriver
+2025-10-03 12:12:23 [INFO] Navigating to WhatsApp Web
+2025-10-03 12:12:23 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-03 12:12:31 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-03 12:12:31 [INFO] Opening group: debugtesting
+2025-10-03 12:12:31 [DEBUG] Opening group: debugtesting
+2025-10-03 12:12:33 [SUCCESS] Successfully opened group: debugtesting
+2025-10-03 12:12:33 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-03 12:12:33 [INFO] Starting WhatsApp Bot main loop
+2025-10-03 12:12:34 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-03 12:12:50 [INFO] Application terminated gracefully by user
+2025-10-03 12:46:43 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-03 12:46:43 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-03 12:46:43 [INFO] Initializing bot (attempt 1)
+2025-10-03 12:46:43 [INFO] Initializing WhatsApp Bot
+2025-10-03 12:46:43 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_02
+2025-10-03 12:46:43 [INFO] Running in headless mode
+2025-10-03 12:46:43 [INFO] Starting Chrome WebDriver
+2025-10-03 12:46:52 [INFO] Navigating to WhatsApp Web
+2025-10-03 12:46:52 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-03 12:47:04 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-03 12:47:04 [INFO] Opening group: debugtesting
+2025-10-03 12:47:04 [DEBUG] Opening group: debugtesting
+2025-10-03 12:47:14 [SUCCESS] Successfully opened group: debugtesting
+2025-10-03 12:47:14 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-03 12:47:14 [INFO] Starting WhatsApp Bot main loop
+2025-10-03 12:47:18 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-03 12:47:34 [INFO] Application terminated gracefully by user
