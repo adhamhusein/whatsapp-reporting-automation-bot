@@ -1,6 +1,6 @@
 {
     "groupname": "debugtesting",
-    "userdata_dir": "C:\\Users\\Adham\\Work\\4_VPS\\14_Whatsapp_Automation\\cookies\\trial_03",
+    "userdata_dir": "trial_03",
     "headless": false,
     "affirmative_keywords": ["iya", "ada", "betul", "yoi", "yap", "ya", "benar", "bot mio"],
     "negative_keywords": ["tidak", "udah", "enggak", "ga", "nggak", "cukup", "makasih", "oke", "sip", "ashiap"],

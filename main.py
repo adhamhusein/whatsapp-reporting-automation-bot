@@ -56,7 +56,7 @@ class WhatsAppBot:
         self.default_timeout = default_timeout
         self.session_timeout = session_timeout
         self._load_config()
-        effective_user_data_dir = user_data_dir or self.config.get("userdata_dir", "")
+        effective_user_data_dir = os.path.join(os.getcwd(), "cookies", user_data_dir or self.config.get("userdata_dir", ""))
         self.log.debug(f"Using user data directory: {effective_user_data_dir}")
         self.options = Options()
         

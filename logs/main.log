@@ -1021,3 +1021,57 @@ Stacktrace:
 2025-10-03 12:47:14 [INFO] Starting WhatsApp Bot main loop
 2025-10-03 12:47:18 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
 2025-10-03 12:47:34 [INFO] Application terminated gracefully by user
+2025-10-19 14:35:40 [INFO] Starting WhatsApp Bot Application with auto-restart capability
+2025-10-19 14:35:40 [INFO] Press Ctrl+C to stop the application gracefully
+2025-10-19 14:35:40 [INFO] Initializing bot (attempt 1)
+2025-10-19 14:35:40 [INFO] Initializing WhatsApp Bot
+2025-10-19 14:35:40 [DEBUG] Using user data directory: C:\Users\Adham\Work\4_VPS\14_Whatsapp_Automation\cookies\trial_03
+2025-10-19 14:35:40 [INFO] Running in visible mode
+2025-10-19 14:35:40 [INFO] Starting Chrome WebDriver
+2025-10-19 14:35:42 [INFO] Chrome PID: 15660
+2025-10-19 14:35:43 [INFO] Navigating to WhatsApp Web
+2025-10-19 14:35:43 [DEBUG] Waiting for WhatsApp Web to load
+2025-10-19 14:35:49 [SUCCESS] WhatsApp Web loaded successfully
+2025-10-19 14:35:49 [INFO] Opening group: debugtesting
+2025-10-19 14:35:49 [DEBUG] Opening group: debugtesting
+2025-10-19 14:35:51 [SUCCESS] Successfully opened group: debugtesting
+2025-10-19 14:35:51 [SUCCESS] Bot initialized successfully, starting main loop
+2025-10-19 14:35:51 [INFO] Starting WhatsApp Bot main loop
+2025-10-19 14:36:17 [INFO] Bot activated by user: Adham Byu
+2025-10-19 14:36:17 [DEBUG] Sending message: Halo Adham Byu, ada yang bisa saya bantu?
+2025-10-19 14:36:19 [SUCCESS] Message sent successfully
+2025-10-19 14:36:21 [INFO] Processing request: produksi cc
+2025-10-19 14:36:21 [DEBUG] Sending message: Mohon menunggu, report produksi cc sedang dibuat..
+2025-10-19 14:36:23 [SUCCESS] Message sent successfully
+2025-10-19 14:36:23 [DEBUG] Open url in new tab: http://laptop-5hoeaio4/ReportServer/Pages/ReportViewer.aspx?%2freport+bangjo&rs:Command=Render
+2025-10-19 14:36:23 [DEBUG] Switch tab to: 302FEA2A81422ABD15DEF4220AEE94D0
+2025-10-19 14:36:23 [DEBUG] Input parameter to: produksi cc
+2025-10-19 14:36:23 [DEBUG] Input parameter to: input date
+2025-10-19 14:36:23 [DEBUG] Generating current date
+2025-10-19 14:36:23 [DEBUG] Input parameter to: menu shift
+2025-10-19 14:36:24 [DEBUG] Input parameter to: select shift all
+2025-10-19 14:36:24 [DEBUG] Input parameter to: menu material
+2025-10-19 14:36:24 [DEBUG] Input parameter to: select material cc
+2025-10-19 14:36:24 [DEBUG] Input parameter to: submit
+2025-10-19 14:36:29 [DEBUG] Resizing windows
+2025-10-19 14:36:34 [DEBUG] Taking Screenshot: 302FEA2A81422ABD15DEF4220AEE94D0.png
+2025-10-19 14:36:34 [DEBUG] Closing new tab
+2025-10-19 14:36:35 [DEBUG] Opening group: debugtesting
+2025-10-19 14:36:35 [SUCCESS] Successfully opened group: debugtesting
+2025-10-19 14:36:35 [DEBUG] Sending image: 302FEA2A81422ABD15DEF4220AEE94D0.png with caption: ['*Update Bangjo OB*', '10/19/2025', '', 'Total Produksi:']
+2025-10-19 14:36:35 [DEBUG] Converting image to base64: 302FEA2A81422ABD15DEF4220AEE94D0.png
+2025-10-19 14:36:36 [DEBUG] Executing JavaScript paste event for 302FEA2A81422ABD15DEF4220AEE94D0.png
+2025-10-19 14:36:39 [DEBUG] Send *Update Bangjo OB*
+2025-10-19 14:36:39 [DEBUG] Send 10/19/2025
+2025-10-19 14:36:39 [DEBUG] Send 
+2025-10-19 14:36:39 [DEBUG] Send Total Produksi:
+2025-10-19 14:36:44 [DEBUG] HD quality option not available, skipping
+2025-10-19 14:36:44 [SUCCESS] Image sent successfully
+2025-10-19 14:36:44 [DEBUG] Sending message: Apakah ada yang bisa dibantu lagi?
+2025-10-19 14:36:46 [SUCCESS] Message sent successfully
+2025-10-19 14:36:46 [SUCCESS] Successfully processed request: produksi cc
+2025-10-19 14:36:53 [INFO] Session ended by user: Adham Byu
+2025-10-19 14:36:53 [DEBUG] Sending message: Baik, sesi telah berakhir. Jika butuh bantuan, ketik 'bot mio'.
+2025-10-19 14:36:55 [SUCCESS] Message sent successfully
+2025-10-19 14:36:58 [WARNING] KeyboardInterrupt detected. Closing Chrome and exiting safely...
+2025-10-19 14:37:15 [INFO] Application terminated gracefully by user
